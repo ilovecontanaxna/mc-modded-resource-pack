@@ -1,5 +1,24 @@
-XNA魔改包是我的世界XNA资源服务器，主要是通用服务器，自定义声音，自定义语言，等魔改的内容
+<p align="center">
+	<img
+		src="https://github.com/user-attachments/assets/0ea9f5dd-dd83-478d-b28a-44c364dff24a"
+		width="120px"
+		align="center" alt="GTMB Logo"
+	/>
+	<h1 align="center">《XNA X Github》我的世界魔改资源包</h1>
+	<p align="center">
+		XNA魔改包是我的世界XNA资源服务器，主要是通用服务器，自定义声音，自定义语言，等魔改的内容。
+	</p>
+</p>
 
+---
+
+## 目录
+
+- [快速开始](#快速开始)
+  - [安装要求](#安装要求)
+  - [安装步骤](#安装步骤)
+- [联系我们](#联系我们)
+- [问题](#问题)
 主要功能
 ========
 
