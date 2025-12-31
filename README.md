@@ -1,8 +1,12 @@
 <p align="center">
+注意：请建议打开链接：https://gitcode.com/ILoveXNA/mc-modded-resource-pack 下载,避免下载慢
+
+	
+<p align="center">
 	<img
 		src="https://github.com/user-attachments/assets/0ea9f5dd-dd83-478d-b28a-44c364dff24a"
 		width="120px"
-		align="center" alt="GTMB Logo"
+		align="center" alt="XNA modded logo"
 	/>
 	<h1 align="center">《XNA X Github》我的世界魔改资源包</h1>
 	<p align="center">
@@ -79,3 +83,7 @@ QQ3343535844
 **Q：网易版的《我的世界》客户端更新后，不生效怎么办**
 
 **A：需要重新安装魔改包**
+
+**Q：如果魔改包下载慢怎么办**
+
+**A：建议去gitcode下载魔改包 链接在：https://gitcode.com/ILoveXNA/mc-modded-resource-pack**
