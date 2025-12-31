@@ -33,6 +33,8 @@
 
 自定义贴图
 
+优化声音
+
 **快速开始**
 ============
 
@@ -73,3 +75,7 @@ QQ3343535844
 **Q：为什么有en\_US.lang文件**
 
 **A：因本服语言出现问题，所以请更改语言后有效，在C:\Users\用户名\AppData\Roaming\MinecraftPE_Netease\minecraftpe\options.txt中，把game_language:en_US行上的zh_CN改成en_US**
+
+**Q：网易版的《我的世界》客户端更新后，不生效怎么办**
+
+**A：需要重新安装魔改包**
